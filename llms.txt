@@ -1,26 +1,3 @@
-# vmsysadm
+An agentic harness is the scaffolding infrastructure that wraps around an AI model to give it the ability to act autonomously over multi-step tasks.
 
-> Personal site of vmsysadm — an infrastructure engineer specializing in hyperconverged infrastructure (Nutanix), virtualization (VMware vSphere), enterprise networking, and PowerShell automation. This site serves as a portfolio and technical reference.
 
-## About
-
-- [About vmsysadm](https://vmsysadm.github.io/#about): Background, focus areas, and professional profile of an infrastructure engineer with 10+ years of experience in enterprise systems.
-
-## Tech Stack
-
-- [Stack Overview](https://vmsysadm.github.io/#stack): Technologies and platforms in active use, including Nutanix AOS/AHV, Prism Central, VMware vSphere, NSX, Palo Alto NGFW, Nutanix Flow, Veeam Backup, PowerShell, Python, Ansible, Windows Server, and Linux (RHEL/Ubuntu).
-
-## Projects
-
-- [dotfiles](https://github.com/vmsysadm/dotfiles): PowerShell profile, Starship prompt configuration, and Windows developer environment dotfiles.
-- [keepass-secretmanagement](https://github.com/vmsysadm/keepass-secretmanagement): PowerShell SecretManagement extension for KeePass integration — secure credential retrieval from the command line.
-- [scoop-auto-update](https://github.com/vmsysadm/scoop-auto-update): Automated Scoop package manager updater for Windows environments.
-- [All repositories](https://github.com/vmsysadm): Full list of open-source projects, homelab configs, and infrastructure automation scripts.
-
-## Contact
-
-- [GitHub Profile](https://github.com/vmsysadm): Primary contact point and code repository.
-
-## Optional
-
-- [llms-full.txt](https://vmsysadm.github.io/llms-full.txt): Full site content in a single Markdown document for LLM consumption.
